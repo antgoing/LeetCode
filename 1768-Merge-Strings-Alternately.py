@@ -12,6 +12,3 @@ class Solution:
                 continue
             
         return Solution
-
-word = Solution()
-print(word.mergeAlternately("abcd", "pq"))
